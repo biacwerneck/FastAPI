@@ -1,0 +1,7 @@
+1. FASTAPI (folder)
+
+    1.1. main.py (file)
+    1.2. app (folder)
+    
+        1.2.1. __init__.py (file)
+        1.2.2. app.py (file)
